@@ -1,7 +1,7 @@
 package com.serenitydojo;
 
 public class Dog {
-    private final String name   ;
+    private final String name;
     private final String favoriteToy;
     private final int age;
 
